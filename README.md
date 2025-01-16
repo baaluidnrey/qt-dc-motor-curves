@@ -1,0 +1,1 @@
+# qt-dc-motor-curves
